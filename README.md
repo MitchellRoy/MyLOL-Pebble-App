@@ -1,7 +1,11 @@
-# MyLOL
+#MyLOL
+![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/assets/MyLOL_BANNER.png)
+
 MyLOL is the latest and greatest League of Legends Companion app for Pebble!
 
 Get it now: https://apps.getpebble.com/en_US/application/564ad6cfeaeddc20a0000043
+
+![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/assets/MyLOL_LOGO.png)
 
 ##Features:
  * Profile and Game History Data
