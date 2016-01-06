@@ -27,7 +27,14 @@ The next time the configuration page is opened, you will see your MyLOL Messenge
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Config_Page_screenshots/MyLOL_CONFIG2.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Config_Page_screenshots/MyLOL_CONFIG1.png)
 
-##Screenshots for Pebble Time Watches (Basalt)
+####Making Use of RIOT's API's
+Using the summoner name and region entered into the configuration page, RIOT's API's can be used to get:
+ * Profile Data
+ * Game History Data
+ * Current Game data with images
+ * Free Champion Rotation
+
+####Screenshots for Pebble Time Watches (Basalt)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Basalt_screenshots/screenshot01.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Basalt_screenshots/screenshot02.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Basalt_screenshots/screenshot03.png)
@@ -36,7 +43,7 @@ The next time the configuration page is opened, you will see your MyLOL Messenge
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Basalt_screenshots/screenshot06.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Basalt_screenshots/screenshot07.png)
 
-##Screenshots for Pebble Round Watches (Chalk)
+####Screenshots for Pebble Round Watches (Chalk)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Chalk_screenshots/screenshot01.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Chalk_screenshots/screenshot02.png)
 ![ScreenShot](https://raw.github.com/MitchellRoy/MyLOL-Pebble-App/master/Chalk_screenshots/screenshot03.png)
